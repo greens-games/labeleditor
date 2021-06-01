@@ -1,0 +1,558 @@
+﻿<LabelDataFile>
+  <HeaderPC>
+    <AppVersion>1.2.0</AppVersion>
+  </HeaderPC>
+  <HeaderPrinter>
+    <CurrentFirmware> 1.05.14c</CurrentFirmware>
+  </HeaderPrinter>
+  <Shared>
+    <SubsectionTag1>
+      <Modify>false</Modify>
+      <CreationDate>06-18-2013</CreationDate>
+    </SubsectionTag1>
+    <SubsectionTag2 />
+    <SupportedLabelFields />
+  </Shared>
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <Categories>
+        <AssignedCategory>
+            <Name>Bar / Bread</Name>
+            <Color>#c65911</Color>
+            <PrintTemplate />
+            <Printer />
+        </AssignedCategory>
+        <AssignedCategory>
+            <Name>Cheese / Dairy</Name>
+            <Color>#ffff00</Color>
+            <PrintTemplate />
+            <Printer />
+        </AssignedCategory>
+        <AssignedCategory>
+            <Name>Chicken</Name>
+            <Color>#ffc000</Color>
+            <PrintTemplate />
+            <Printer />
+        </AssignedCategory>
+        <AssignedCategory>
+            <Name>Frozen</Name>
+            <Color>#8ea9db</Color>
+            <PrintTemplate />
+            <Printer />
+        </AssignedCategory>
+        <AssignedCategory>
+            <Name>Fry / Sanitation</Name>
+            <Color>#ff6666</Color>
+            <PrintTemplate />
+            <Printer />
+        </AssignedCategory>
+        <AssignedCategory>
+            <Name>Grocery</Name>
+            <Color>#a9d08e</Color>
+            <PrintTemplate />
+            <Printer />
+        </AssignedCategory>
+        <AssignedCategory>
+            <Name>Meat</Name>
+            <Color>#ff0000</Color>
+            <PrintTemplate />
+            <Printer />
+        </AssignedCategory>
+        <AssignedCategory>
+            <Name>Produce / Potato</Name>
+            <Color>#ffe699</Color>
+            <PrintTemplate />
+            <Printer />
+        </AssignedCategory>
+        <AssignedCategory>
+            <Name>Sauces</Name>
+            <Color>#bfbfbf</Color>
+            <PrintTemplate />
+            <Printer />
+        </AssignedCategory>
+        <AssignedCategory>
+            <Name>Seafood</Name>
+            <Color>#c967e7</Color>
+            <PrintTemplate />
+            <Printer />
+        </AssignedCategory>
+    </Categories>
+<Labels>
+        <Item>
+            <Caption>BT Burger Sauce</Caption>
+            <AssignedCategory>Sauces</AssignedCategory>
+            <Caption_Alt1>BT Burger Sauce</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>BT Burger Sauce</Print_Message>
+            <Expire1_Message>date</Expire1_Message>
+            <Expire1_Days>0</Expire1_Days>
+            <Expire1_Hours> </Expire1_Hours>
+            <Expire1_Mins> </Expire1_Mins>
+            <Expire2_Message>use by</Expire2_Message>
+            <Expire2_Days>7</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item>
+        <Item>
+            <Caption>Cauiflour Rice</Caption>
+            <AssignedCategory>Frozen</AssignedCategory>
+            <Caption_Alt1>Cauiflour Rice</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>Cauliflour Rice</Print_Message>
+            <Expire1_Message>Made By</Expire1_Message>
+            <Expire1_Days>0</Expire1_Days>
+            <Expire1_Hours> </Expire1_Hours>
+            <Expire1_Mins> </Expire1_Mins>
+            <Expire2_Message>Use By</Expire2_Message>
+            <Expire2_Days>14</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item>
+        <Item>
+            <Caption>Gravy</Caption>
+            <AssignedCategory>Sauces</AssignedCategory>
+            <Caption_Alt1>Gravy</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>Gravy</Print_Message>
+            <Expire1_Message> </Expire1_Message>
+            <Expire1_Days>31</Expire1_Days>
+            <Expire1_Hours>6</Expire1_Hours>
+            <Expire1_Mins>6</Expire1_Mins>
+            <Expire2_Message> </Expire2_Message>
+            <Expire2_Days>7</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item>
+        <Item>
+            <Caption>Italian Tomato</Caption>
+            <AssignedCategory>Sauces</AssignedCategory>
+            <Caption_Alt1>Italian Tomato</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>Italian Tomato</Print_Message>
+            <Expire1_Message>Date</Expire1_Message>
+            <Expire1_Days>0</Expire1_Days>
+            <Expire1_Hours> </Expire1_Hours>
+            <Expire1_Mins> </Expire1_Mins>
+            <Expire2_Message>Use By</Expire2_Message>
+            <Expire2_Days>6</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item>
+        <Item>
+            <Caption>Lime Mix</Caption>
+            <AssignedCategory>Sauces</AssignedCategory>
+            <Caption_Alt1>Lime Mix</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>Lime Mix</Print_Message>
+            <Expire1_Message>Date</Expire1_Message>
+            <Expire1_Days>0</Expire1_Days>
+            <Expire1_Hours> </Expire1_Hours>
+            <Expire1_Mins> </Expire1_Mins>
+            <Expire2_Message>Use By</Expire2_Message>
+            <Expire2_Days>5</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item>
+        <Item>
+            <Caption>Mashed</Caption>
+            <AssignedCategory>Produce / Potato</AssignedCategory>
+            <Caption_Alt1>Mashed</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>Mashed</Print_Message>
+            <Expire1_Message> </Expire1_Message>
+            <Expire1_Days> </Expire1_Days>
+            <Expire1_Hours> </Expire1_Hours>
+            <Expire1_Mins>1</Expire1_Mins>
+            <Expire2_Message> </Expire2_Message>
+            <Expire2_Days>4</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item>
+        <Item>
+            <Caption>Roasted Garlic Aioli</Caption>
+            <AssignedCategory>Sauces</AssignedCategory>
+            <Caption_Alt1>Unnamed Item</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>Roasted Garlic Aioli</Print_Message>
+            <Expire1_Message> </Expire1_Message>
+            <Expire1_Days>0</Expire1_Days>
+            <Expire1_Hours> </Expire1_Hours>
+            <Expire1_Mins> </Expire1_Mins>
+            <Expire2_Message> </Expire2_Message>
+            <Expire2_Days>7</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item>
+        <Item>
+            <Caption>Tofu</Caption>
+            <AssignedCategory>Frozen</AssignedCategory>
+            <Caption_Alt1>Tofu</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>Tofu</Print_Message>
+            <Expire1_Message>date</Expire1_Message>
+            <Expire1_Days>0</Expire1_Days>
+            <Expire1_Hours> </Expire1_Hours>
+            <Expire1_Mins> </Expire1_Mins>
+            <Expire2_Message>use by</Expire2_Message>
+            <Expire2_Days>7</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item>
+        <Item>
+            <Caption>Berry Sauce</Caption>
+            <AssignedCategory>Sauces</AssignedCategory>
+            <Caption_Alt1>Berry Sauce</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>Berry Sauce</Print_Message>
+            <Expire1_Message>Date</Expire1_Message>
+            <Expire1_Days>0</Expire1_Days>
+            <Expire1_Hours> </Expire1_Hours>
+            <Expire1_Mins> </Expire1_Mins>
+            <Expire2_Message>Use By:</Expire2_Message>
+            <Expire2_Days>7</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item>
+        <Item>
+            <Caption>Chili Syrup</Caption>
+            <AssignedCategory>Sauces</AssignedCategory>
+            <Caption_Alt1>Chili Syrup</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>Chili Syrup</Print_Message>
+            <Expire1_Message>Date</Expire1_Message>
+            <Expire1_Days>0</Expire1_Days>
+            <Expire1_Hours> </Expire1_Hours>
+            <Expire1_Mins> </Expire1_Mins>
+            <Expire2_Message>Use By</Expire2_Message>
+            <Expire2_Days>21</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item>
+        </Labels>
+</LabelDataFile>
