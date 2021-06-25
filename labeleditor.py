@@ -59,9 +59,33 @@ item_string = '''<Item>
         </Item>
         '''
 
+def find_tags(item):
+    found_tags  = []
+    found_tags.append(item.find('Caption').text)
+    found_tags.append(item.find('AssignedCategory').text)
+    found_tags.append(item.find('Caption_Alt1').text)
+    found_tags.append(item.find('Print_Message').text)
+    found_tags.append(item.find('Expire2_Days').text)
 
-def delete_label(item_to_delete):
-    return
+
+    return found_tags
+
+def delete_label(labels_menu, labels_user, items_to_delete):
+    items_menu = labels_menu.findall('Item')
+    items_user = labels_user.findall('Item')
+    for item in items_menu:
+        item_name = item.find('Caption').text
+        if item_name in items_to_delete:
+            print("removing item: "+item_name)
+            labels_menu.remove(item)
+
+    for item in items_user:
+        item_name = item.find('Caption').text
+        if item_name in items_to_delete:
+            labels_user.remove(item)
+
+    
+    return 
 
 def create_label(name, cat, message, expire):
     new_item = ET.fromstring(item_string) #base new item object
@@ -90,3 +114,28 @@ def create_label(name, cat, message, expire):
         if elem.tag == 'Expire2_Days':
             elem.text = expire
     return new_item
+
+def update_label(labels_menu, labels_user, item_to_update, original_name):
+
+    items_menu = labels_menu.findall('Item')
+    items_user = labels_user.findall('Item') 
+    for item in items_menu:
+        item_name = item.find('Caption').text
+        if item_name == original_name:
+            print("removing item: "+str(item_to_update))
+            item.find('Caption').text = item_to_update[0]
+            item.find('AssignedCategory').text = item_to_update[1]
+            item.find('Caption_Alt1').text = item_to_update[2]
+            item.find('Print_Message').text = item_to_update[3]
+            item.find('Expire2_Days').text = item_to_update[4]
+
+    for item in items_user:
+        item_name = item.find('Caption').text
+        if item_name == original_name:
+            print("updating item: "+str(item_to_update))
+            item.find('Caption').text = item_to_update[0]
+            item.find('AssignedCategory').text = item_to_update[1]
+            item.find('Caption_Alt1').text = item_to_update[2]
+            item.find('Print_Message').text = item_to_update[3]
+            item.find('Expire2_Days').text = item_to_update[4]
+    return

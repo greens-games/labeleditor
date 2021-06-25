@@ -10545,7 +10545,7 @@
             <Expire1_Hours> </Expire1_Hours>
             <Expire1_Mins> </Expire1_Mins>
             <Expire2_Message>Use By</Expire2_Message>
-            <Expire2_Days>2</Expire2_Days>
+            <Expire2_Days>3</Expire2_Days>
             <Expire2_Hours> </Expire2_Hours>
             <Expire2_Mins> </Expire2_Mins>
             <Expire2_EOD> </Expire2_EOD>
@@ -10590,6 +10590,50 @@
             <Expire1_Mins> </Expire1_Mins>
             <Expire2_Message>Use By</Expire2_Message>
             <Expire2_Days>28</Expire2_Days>
+            <Expire2_Hours> </Expire2_Hours>
+            <Expire2_Mins> </Expire2_Mins>
+            <Expire2_EOD> </Expire2_EOD>
+            <Barcode> </Barcode>
+            <Price> </Price>
+            <Edit_Lock> </Edit_Lock>
+            <Print_Button_Disable> </Print_Button_Disable>
+            <Serving_Size> </Serving_Size>
+            <Servings_Per_Container> </Servings_Per_Container>
+            <Calories> </Calories>
+            <Calories_From_Fat> </Calories_From_Fat>
+            <Total_Fat_Percent> </Total_Fat_Percent>
+            <Total_Fat_Grams> </Total_Fat_Grams>
+            <Saturated_Percent> </Saturated_Percent>
+            <Saturated_Fat_Grams> </Saturated_Fat_Grams>
+            <Trans_Fat_Grams> </Trans_Fat_Grams>
+            <Cholesterol_Percent> </Cholesterol_Percent>
+            <Cholesterol_Grams> </Cholesterol_Grams>
+            <Sodium_Percent> </Sodium_Percent>
+            <Sodium_Grams> </Sodium_Grams>
+            <Total_Carbs_Percent> </Total_Carbs_Percent>
+            <Total_Carbs_Grams> </Total_Carbs_Grams>
+            <Dietary_Fiber_Percent> </Dietary_Fiber_Percent>
+            <Dietary_Fiber_Grams> </Dietary_Fiber_Grams>
+            <Sugars_Grams> </Sugars_Grams>
+            <Protein_Grams> </Protein_Grams>
+            <Vitamin_A_Percent> </Vitamin_A_Percent>
+            <Vitamin_C_Percent> </Vitamin_C_Percent>
+            <Calcium_Percent> </Calcium_Percent>
+            <Iron_Percent> </Iron_Percent>
+            <Description1> </Description1>
+            <Ingredients> </Ingredients>
+        </Item><Item>
+            <Caption>Black Beans</Caption>
+            <AssignedCategory>Grocery</AssignedCategory>
+            <Caption_Alt1>Black Beans</Caption_Alt1>
+            <Category_Alt1> </Category_Alt1>
+            <Print_Message>Black Beans</Print_Message>
+            <Expire1_Message>Date</Expire1_Message>
+            <Expire1_Days>0</Expire1_Days>
+            <Expire1_Hours> </Expire1_Hours>
+            <Expire1_Mins> </Expire1_Mins>
+            <Expire2_Message>Use By</Expire2_Message>
+            <Expire2_Days>7</Expire2_Days>
             <Expire2_Hours> </Expire2_Hours>
             <Expire2_Mins> </Expire2_Mins>
             <Expire2_EOD> </Expire2_EOD>
